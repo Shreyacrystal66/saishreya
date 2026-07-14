@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Shreya
+# Hi, I'm Sai Shreya
 
 ## Associate Program Manager at Uber
 
@@ -33,6 +33,6 @@ I'm building this portfolio to showcase my work in Program Management, Process I
 
 ## Connect with Me
 
-📧 Email: saishreya66@gmail.com
+Email: saishreya66@gmail.com
 
 LinkedIn: (https://www.linkedin.com/in/mothukuri-sai-shreya-190192218/)
